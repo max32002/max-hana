@@ -9,6 +9,7 @@ B2花園字體基於花園明朝的轉角的三角形轉成半圓形改造，彷
 B2花園與花園明朝字體比較：
 ![B2花園字體比較預覽](https://github.com/max32002/max-hana/raw/master/preview/compare_hana_b2.png)
 
+附註：Regular 字重，是直接來自花園明朝，Medium 字重是透過程式產生，不能確定所有的字都正常，可能會轉換失敗。
 
 ## 下載字型
 
@@ -27,12 +28,20 @@ B2花園與花園明朝字體比較：
 }
 ```
 
-B2花園可以服用下面的css:
+B2花園Regular,可以服用下面的css:
 ```
 @font-face {
   font-family: B2Hana-Regular;
   src: url(https://github.com/max32002/max-hana/raw/master/webfont/B2Hana-Regular.woff2) format("woff22")
   , url(https://github.com/max32002/max-hana/raw/master/webfont/B2Hana-Regular.woff) format("woff");
+}
+```
+B2花園Medium,可以服用下面的css:
+```
+@font-face {
+  font-family: B2Hana-Medium;
+  src: url(https://github.com/max32002/max-hana/raw/master/webfont/B2Hana-Medium.woff2) format("woff22")
+  , url(https://github.com/max32002/max-hana/raw/master/webfont/B2Hana-Medium.woff) format("woff");
 }
 ```
 
