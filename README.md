@@ -2,10 +2,44 @@
 
 分享花園明朝字體的相關改作字型。
 
+## B2花園
+B2花園字體基於花園明朝的轉角的三角形轉成半圓形改造，彷彿墨暈或是稍微過曝的效果。歡迎大家自由應用、自由優化、自由改作！
+
+
+B2花園與花園明朝字體比較：
+![字體比較預覽](https://github.com/max32002/max-hana/raw/master/preview/compare_hana_b2.png)
+
+
 ## 下載字型
 
 請點選GitHub此畫面右上綠色「Clone or download」按鈕，並選擇「Download ZIP」，或點進想下載的ttf字型檔案，再點「Download」的按鈕進行下載。
 
+## 使用 WebFont
+
+網路字型(Web Font)，用於網頁上的字型顯示，使用者的用戶端不需預先安裝字型檔，一樣能夠看到特殊的字型效果。實現該功能的原理是在瀏覽時才下載字型檔。
+
+花園明朝可以服用下面的css:
+```
+@font-face {
+  font-family: HanaMinA;
+  src: url(https://github.com/max32002/max-hana/raw/master/webfont/HanaMinA.woff2) format("woff22")
+  , url(https://github.com/max32002/max-hana/raw/master/webfont/HanaMinA.woff) format("woff");
+}
+```
+
+B2花園可以服用下面的css:
+```
+@font-face {
+  font-family: B2Hana-Regular;
+  src: url(https://github.com/max32002/max-hana/raw/master/webfont/B2Hana-Regular.woff2) format("woff22")
+  , url(https://github.com/max32002/max-hana/raw/master/webfont/B2Hana-Regular.woff) format("woff");
+}
+```
+
+您也可以透過從CDN引入在GitHub上woff2檔案的網址，再把上方的url()內容置換成CDN快取後的網址，將可大幅加快網頁載入。推薦使用 jsDelivr 的服務，在速度上挺不錯的，參考看看： www.cdnperf.com/#!performance,Asia 。
+
+## 附註
+* B2花園字體的演算黑科技，將字體轉角的三角形轉成半圓形，請參考獅尾B2宋朝專案下的 /python/ 目錄下的腳本檔案。透過調整程式碼，也許也可以產生出新的有趣字型。目前的程式應該還有很多錯誤或需要再加強的地方。請先把要處理的字型，轉成 FontForge 的 sfdir, 再透過程式去處理產生出來的檔案。
 
 ## 著作權與授權
 
@@ -18,6 +52,8 @@
     
 ## 相關網頁
 
+* B2花園
+https://max-everyday.com/2020/08/b2-font/
 * 獅尾B2宋朝 Swei B2 Serif
 https://max-everyday.com/2020/07/swei-b2-serif/
 * 獅尾肉丸 Swei Meatball
