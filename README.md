@@ -4,10 +4,10 @@
 
 ## B2花園
 B2花園字體基於花園明朝的轉角的三角形轉成半圓形改造，彷彿墨暈或是稍微過曝的效果。歡迎大家自由應用、自由優化、自由改作！
-
+![B2花園字體預覽](https://github.com/max32002/max-hana/raw/master/preview/welcome.png)
 
 B2花園與花園明朝字體比較：
-![字體比較預覽](https://github.com/max32002/max-hana/raw/master/preview/compare_hana_b2.png)
+![B2花園字體比較預覽](https://github.com/max32002/max-hana/raw/master/preview/compare_hana_b2.png)
 
 
 ## 下載字型
