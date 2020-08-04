@@ -43,7 +43,7 @@ B2花園可以服用下面的css:
 
 ## 著作權與授權
 
-* 本字型是基於 SIL Open Font License 1.1 改造Adobe和Google所開發、發表的「[思源黑體](https://github.com/adobe-fonts/source-han-sans)」字型。
+* 本字型是改造グリフウィキ(GlyphWiki)所開發、發表的「[花園明朝(花園フォントについて)](http://fonts.jp/hanazono/)」字型。
 * 本字型亦基於 SIL Open Font License 1.1 授權條款免費公開，關於授權合約的內容、免責事項等細節，請詳讀 License 文件。
     * 可自由商用 不需付費、知會或標明作者，即可自由使用此字型，亦可做商業應用。
     * 可自由傳布 可自由分享檔案、將檔案安裝於任何軟硬體中。
