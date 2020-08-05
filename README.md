@@ -20,7 +20,7 @@ B2花園與花園明朝字體比較：
 
 附註：Regular 字重，是直接來自花園明朝，Medium 字重是透過程式產生，不能確定所有的字都正常，可能會轉換失敗。
 
-三角形換半圓形改造
+
 ## 檔案說明
 * HanaMinA.ttf 花園明朝字體A+G區。原版的花園明朝只有A區。
 * HanaMinB.ttf 花園明朝字體B-F區。
@@ -28,6 +28,8 @@ B2花園與花園明朝字體比較：
 * B2Hana-Regular.ttf B2花園 Medium 字重 (線條較粗)
 * B2HanaB-Regular.ttf B2花園（B-F區） Regular 字重
 * B2HanaB-Regular.ttf B2花園（B-F區） Medium 字重 (線條較粗)
+* HanaMeatball-Regular.ttf B2花園 Regular 字重
+* HanaMeatball-Regular.ttf B2花園 Medium 字重 (線條較粗)
 
 附註1：一般情況下，使用 A區就可以了，常用字在A區，其他區的字比較少使用到。
 附註2：為什麼要分成2個字型檔？因為單一字型檔有字數的上限，所以需要分成2個。
