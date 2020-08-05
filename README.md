@@ -12,11 +12,11 @@ B2花園與花園明朝字體比較：
 附註：Regular 字重，是直接來自花園明朝，Medium 字重是透過程式產生，不能確定所有的字都正常，可能會轉換失敗。
 
 ## 花園肉丸 (Hana Meatball)
-B2花園字體基於花園明朝的三角形換半圓形改造，遊走於古典與可愛之間的字體。歡迎大家自由應用、自由優化、自由改作！
-![B2花園字體預覽](https://github.com/max32002/max-hana/raw/master/preview/welcome_b2hana.png)
+花園肉丸字體基於花園明朝的三角形換半圓形改造，遊走於古典與可愛之間的字體。歡迎大家自由應用、自由優化、自由改作！
+![花園肉丸字體預覽](https://github.com/max32002/max-hana/raw/master/preview/welcome_hahameatball.png)
 
-B2花園與花園明朝字體比較：
-![B2花園字體比較預覽](https://github.com/max32002/max-hana/raw/master/preview/compare_hana_b2.png)
+花園肉丸與花園明朝字體比較：
+![花園肉丸字體比較預覽](https://github.com/max32002/max-hana/raw/master/preview/compare_hana_meatball.png)
 
 附註：Regular 字重，是直接來自花園明朝，Medium 字重是透過程式產生，不能確定所有的字都正常，可能會轉換失敗。
 
