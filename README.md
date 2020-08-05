@@ -2,7 +2,7 @@
 
 分享花園明朝字體的相關改作字型。
 
-## B2花園
+## B2花園 (B2 Hana)
 B2花園字體基於花園明朝的轉角的三角形轉成半圓形改造，彷彿墨暈或是稍微過曝的效果。歡迎大家自由應用、自由優化、自由改作！
 ![B2花園字體預覽](https://github.com/max32002/max-hana/raw/master/preview/welcome_b2hana.png)
 
@@ -11,11 +11,26 @@ B2花園與花園明朝字體比較：
 
 附註：Regular 字重，是直接來自花園明朝，Medium 字重是透過程式產生，不能確定所有的字都正常，可能會轉換失敗。
 
+## 花園肉丸 (Hana Meatball)
+B2花園字體基於花園明朝的三角形換半圓形改造，遊走於古典與可愛之間的字體。歡迎大家自由應用、自由優化、自由改作！
+![B2花園字體預覽](https://github.com/max32002/max-hana/raw/master/preview/welcome_b2hana.png)
+
+B2花園與花園明朝字體比較：
+![B2花園字體比較預覽](https://github.com/max32002/max-hana/raw/master/preview/compare_hana_b2.png)
+
+附註：Regular 字重，是直接來自花園明朝，Medium 字重是透過程式產生，不能確定所有的字都正常，可能會轉換失敗。
+
+三角形換半圓形改造
 ## 檔案說明
 * HanaMinA.ttf 花園明朝字體A+G區。原版的花園明朝只有A區。
 * HanaMinB.ttf 花園明朝字體B-F區。
 * B2Hana-Regular.ttf B2花園 Regular 字重
 * B2Hana-Regular.ttf B2花園 Medium 字重 (線條較粗)
+* B2HanaB-Regular.ttf B2花園（B-F區） Regular 字重
+* B2HanaB-Regular.ttf B2花園（B-F區） Medium 字重 (線條較粗)
+
+附註1：一般情況下，使用 A區就可以了，常用字在A區，其他區的字比較少使用到。
+附註2：為什麼要分成2個字型檔？因為單一字型檔有字數的上限，所以需要分成2個。
 
 ## 下載字型
 
@@ -67,8 +82,10 @@ B2花園Medium,可以服用下面的css:
     
 ## 相關網頁
 
+* 花園肉丸
+https://max-everyday.com/2020/08/hana-meatball/
 * B2花園
-https://max-everyday.com/2020/08/b2-font/
+https://max-everyday.com/2020/08/b2-hana-font/
 * 獅尾B2宋朝 Swei B2 Serif
 https://max-everyday.com/2020/07/swei-b2-serif/
 * 獅尾肉丸 Swei Meatball
