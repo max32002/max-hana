@@ -11,6 +11,12 @@ B2花園與花園明朝字體比較：
 
 附註：Regular 字重，是直接來自花園明朝，Medium 字重是透過程式產生，不能確定所有的字都正常，可能會轉換失敗。
 
+## 檔案說明
+* HanaMinA.ttf 花園明朝字體A+G區。原版的花園明朝只有A區。
+* HanaMinB.ttf 花園明朝字體B-F區。
+* B2Hana-Regular.ttf B2花園 Regular 字重
+* B2Hana-Regular.ttf B2花園 Medium 字重 (線條較粗)
+
 ## 下載字型
 
 請點選GitHub此畫面右上綠色「Clone or download」按鈕，並選擇「Download ZIP」，或點進想下載的ttf字型檔案，再點「Download」的按鈕進行下載。
