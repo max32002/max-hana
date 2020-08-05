@@ -67,7 +67,22 @@ B2花園Medium,可以服用下面的css:
   , url(https://github.com/max32002/max-hana/raw/master/webfont/B2Hana-Medium.woff) format("woff");
 }
 ```
-
+花園肉丸Regular,可以服用下面的css:
+```
+@font-face {
+  font-family: HanaMeatball-Regular;
+  src: url(https://github.com/max32002/max-hana/raw/master/webfont/HanaMeatball-Regular.woff2) format("woff22")
+  , url(https://github.com/max32002/max-hana/raw/master/webfont/HanaMeatball-Regular.woff) format("woff");
+}
+```
+花園肉丸Medium,可以服用下面的css:
+```
+@font-face {
+  font-family: HanaMeatball-Medium;
+  src: url(https://github.com/max32002/max-hana/raw/master/webfont/HanaMeatball-Medium.woff2) format("woff22")
+  , url(https://github.com/max32002/max-hana/raw/master/webfont/HanaMeatball-Medium.woff) format("woff");
+}
+```
 您也可以透過從CDN引入在GitHub上woff2檔案的網址，再把上方的url()內容置換成CDN快取後的網址，將可大幅加快網頁載入。推薦使用 jsDelivr 的服務，在速度上挺不錯的，參考看看： www.cdnperf.com/#!performance,Asia 。
 
 ## 附註
